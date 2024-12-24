@@ -17,9 +17,9 @@ dependencies:
       ref: flutter_blue_plus_android-v2.0.5
   flutter_blue_plus_ios:
     git:
-      url: https://github.com/tnc1997/flutter-blue-plus.git
+      url: https://github.com/alexsherkhan/flutter-blue-plus.git
       path: packages/flutter_blue_plus_ios
-      ref: flutter_blue_plus_ios-v2.0.3
+      ref: flutter_blue_plus_ios-v2.0.4
   flutter_blue_plus_linux:
     git:
       url: https://github.com/tnc1997/flutter-blue-plus.git
